@@ -1,0 +1,108 @@
+DOMAIN,emby.enjoyit.eu.org
+DOMAIN,emby.lcloud.wiki
+DOMAIN,notnetflix.cos.cat
+DOMAIN-SUFFIX,123456.al
+DOMAIN-SUFFIX,285286.xyz
+DOMAIN-SUFFIX,agahk1.jmsooo.com
+DOMAIN-SUFFIX,agajp1.jmsooo.com
+DOMAIN-SUFFIX,agasg1.jmsooo.com
+DOMAIN-SUFFIX,aws.jmsooo.com
+DOMAIN-SUFFIX,cf1.jmsooo.com
+DOMAIN-SUFFIX,cristiamo.xyz
+DOMAIN-SUFFIX,emby.cjpc.cc
+DOMAIN-SUFFIX,emby.cjpc.tv
+DOMAIN-SUFFIX,emby.cjpc.xyz
+DOMAIN-SUFFIX,emby.cristiamo.top
+DOMAIN-SUFFIX,emby.flowercloud.yt
+DOMAIN-SUFFIX,emby.immtel.com
+DOMAIN-SUFFIX,emby.maying.club
+DOMAIN-SUFFIX,emby.mcwy.me
+DOMAIN-SUFFIX,emby.mdss.cloud
+DOMAIN-SUFFIX,emby.neko.edu.rs
+DOMAIN-SUFFIX,emby.nexitally.com
+DOMAIN-SUFFIX,emby.nyancat.net
+DOMAIN-SUFFIX,emby.ok.edu.hk
+DOMAIN-SUFFIX,emby.paoche.ooo
+DOMAIN-SUFFIX,emby.prprcloud.com
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,emby.xeton.dev
+DOMAIN-SUFFIX,emby.ytoo.li
+DOMAIN-SUFFIX,embymv.tk
+DOMAIN-SUFFIX,embyplus.org
+DOMAIN-SUFFIX,embyserver.ga
+DOMAIN-SUFFIX,hinet.jmsooo.com
+DOMAIN-SUFFIX,imetyou.top
+DOMAIN-SUFFIX,jellyfin.asia
+DOMAIN-SUFFIX,jellyfin.xeton.dev
+DOMAIN-SUFFIX,line.emby.men
+DOMAIN-SUFFIX,mickeycloud.com
+DOMAIN-SUFFIX,movie.xeton.dev
+DOMAIN-SUFFIX,ntt1.jmsooo.com
+DOMAIN-SUFFIX,ohhhh.org
+DOMAIN-SUFFIX,peachmv.me
+DOMAIN-SUFFIX,pilipiliultra.com
+DOMAIN-SUFFIX,plusmedia.site
+DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN-SUFFIX,pornemby.club
+DOMAIN-SUFFIX,servers.xeton.dev
+DOMAIN-SUFFIX,xmsl.org
+DOMAIN-KEYWORD,emby.wtf
+DOMAIN-KEYWORD,jmsooo
+DOMAIN-KEYWORD,odysseyplus
+PROCESS-NAME,com.mb.android
+DOMAIN-KEYWORD,iwara.tv
+DOMAIN-KEYWORD,jsdelivr.net
+
+DOMAIN-SUFFIX,mushroomtrack.com // Added for: adoda-smart-coin.mushroomtrack.com:443
+DOMAIN-SUFFIX,91porny.com // Added for: 91porny.com:443
+DOMAIN-SUFFIX,ucloud158.xyz // Added for: int.ucloud158.xyz:443
+DOMAIN-SUFFIX,ucloud158.xyz // Added for: int.ucloud158.xyz:443
+DOMAIN-SUFFIX,vban.xyz // Added for: wfa.vban.xyz:443
+DOMAIN-SUFFIX,feimu.tv // Added for: feimu.tv:443
+DOMAIN-SUFFIX,bangumi.ca // Added for: emby.bangumi.ca:443
+DOMAIN-SUFFIX,114514.quest // Added for: onatoshi.114514.quest:443
+DOMAIN-SUFFIX,jable.tv // Added for: jable.tv:443
+DOMAIN-SUFFIX,javday.homes // Added for: 8bnuuk.javday.homes:443
+DOMAIN-SUFFIX,javday.app // Added for: javday.app:443
+DOMAIN-SUFFIX,surrit.com // Added for: surrit.com:443
+DOMAIN-SUFFIX,phncdn.com // Added for: pix-cdn77.phncdn.com:443
+DOMAIN-SUFFIX,pornhub.com // Added for: cn.pornhub.com:443
+DOMAIN-SUFFIX,missav.ai // Added for: missav.ai:443
+DOMAIN-SUFFIX,killcovid2021.com // Added for: vthumb.killcovid2021.com:443
+DOMAIN-SUFFIX,91porn.com // Added for: 91porn.com:443
+DOMAIN-SUFFIX,btc620.com // Added for: la.btc620.com:443
+DOMAIN-SUFFIX,cdn77.org // Added for: 1729130453.rsc.cdn77.org:443
+DOMAIN-SUFFIX,jiuse3.cloud // Added for: cdn2.jiuse3.cloud:443
+DOMAIN-SUFFIX,apibdzy.com // Added for: api.apibdzy.com:443
+DOMAIN-SUFFIX,trakt.tv // Added for: api.trakt.tv:443
+DOMAIN-SUFFIX,lziapi.com // Added for: cj.lziapi.com:443
+DOMAIN-SUFFIX,rycjapi.com // Added for: cj.rycjapi.com:443
+DOMAIN-SUFFIX,iqiyizyapi.com // Added for: iqiyizyapi.com:443
+DOMAIN-SUFFIX,apibdzy.com // Added for: api.apibdzy.com:443
+DOMAIN-SUFFIX,ffzy4.tv // Added for: http://ffzy4.tv/api.php/provide/vod/?ac=detail&wd=%E4%BA%B2%E5%90%BB%E8%A6%81%E5%9C%A8%E6%90%9C%E6%9F%A5%E5%90%8E
+DOMAIN-SUFFIX,wolongzyw.com // Added for: wolongzyw.com:443
+DOMAIN-SUFFIX,zuidapi.com // Added for: api.zuidapi.com:443
+DOMAIN-SUFFIX,p2100.net // Added for: p2100.net:443
+DOMAIN-SUFFIX,ikunzyapi.com // Added for: ikunzyapi.com:443
+DOMAIN-SUFFIX,xinlangapi.com // Added for: http://api.xinlangapi.com/xinlangapi.php/provide/vod/?ac=detail&wd=%E4%BA%B2%E5%90%BB%E8%A6%81%E5%9C%A8%E6%90%9C%E6%9F%A5%E5%90%8E
+DOMAIN-SUFFIX,dyttzyapi.com // Added for: http://caiji.dyttzyapi.com/api.php/provide/vod/?ac=detail&wd=%E4%BA%B2%E5%90%BB%E8%A6%81%E5%9C%A8%E6%90%9C%E6%9F%A5%E5%90%8E
+DOMAIN-SUFFIX,lovedan.net // Added for: lovedan.net:443
+DOMAIN-SUFFIX,theintrodb.org // Added for: api.theintrodb.org:443
+DOMAIN-SUFFIX,introdb.app // Added for: api.introdb.app:443
+DOMAIN,publicmetadb.com // Added for: publicmetadb.com:443
+DOMAIN-SUFFIX,huyaapi.com // Added for: www.huyaapi.com:443
+DOMAIN-SUFFIX,jyzyapi.com // Added for: jyzyapi.com:443
+DOMAIN-SUFFIX,hongniuzy2.com // Added for: www.hongniuzy2.com:443
+DOMAIN-SUFFIX,ukuapi.com // Added for: api.ukuapi.com:443
+DOMAIN-SUFFIX,wujinapi.com // Added for: api.wujinapi.com:443
+DOMAIN-SUFFIX,ukuapi88.com // Added for: api.ukuapi88.com:443
+DOMAIN-SUFFIX,bfzyapi.com // Added for: bfzyapi.com:443
+DOMAIN-SUFFIX,jszyapi.com // Added for: jszyapi.com:443
+DOMAIN-SUFFIX,tmdb.org // Added for: image.tmdb.org:443
+DOMAIN-SUFFIX,media-imdb.com // Added for: imdb-video.media-imdb.com:443
+DOMAIN-SUFFIX,ryplay4.com // Added for: cdn4.ryplay4.com:443
+DOMAIN-SUFFIX,ffzy-online2.com // Added for: vip.ffzy-online2.com:443
+DOMAIN-SUFFIX,6i6i6.com // Added for: strm.6i6i6.com:443
+DOMAIN,v7.zuidazym3u8.com // Added for: v7.zuidazym3u8.com:443
+DOMAIN-SUFFIX,zuidazym3u8.com // Added for: v7.zuidazym3u8.com:443
+DOMAIN-SUFFIX,lz-cdn.com // Added for: vip1.lz-cdn.com:443
